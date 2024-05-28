@@ -3,8 +3,6 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-TestCheat
-
 # User-specific files
 *.rsuser
 *.suo
@@ -99,8 +97,6 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-
-SkibidiToilet/
 
 # Chutzpah Test files
 _Chutzpah*
@@ -305,7 +301,7 @@ node_modules/
 *.dsw
 *.dsp
 
-# Visual Studio 6 technical files 
+# Visual Studio 6 technical files
 *.ncb
 *.aps
 

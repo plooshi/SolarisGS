@@ -13,8 +13,6 @@
 #include <algorithm>
 #include <map>
 
-// i would advise you use smth else in the long run. minhook is not the best.
-
 #pragma comment(lib,"minhook/minhook.lib")
 #include "minhook/MinHook.h"
 

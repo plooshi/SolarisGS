@@ -86,15 +86,6 @@ bool ReadyToStartMatchHook(AFortGameModeAthena* GM)
 
 	
 	if (!GameState->MapInfo) return false;
-	/*else if (!bHasAllVMS) {
-		auto VMS = GetAll(UObject::FindClassFast("B_Athena_VendingMachine_C"));
-		auto Num = VMS.Num();
-		VMS.Free();
-		if (Num < 55) {
-			return false;
-		}
-		bHasAllVMS = true;
-	}*/
 
 	if (!bSetupFinal) {
 		bSetupFinal = true;
